@@ -1,2 +1,24 @@
-# feb-2025-css-layouts-and-responsive-design-Tebogo12-Letube
- a responsive webpage using CSS techniques, specificmodern ally Flexbox, Grid, and Media Queries. The goal is to ensure the webpage adapts gracefully to various screen sizes.
+# CSS Layouts and Responsive Design
+
+## Objectives
+
+Implement Flexbox and Grid for layout design.
+Make the webpage responsive using media queries.
+Ensure proper alignment and spacing.
+
+## Instructions
+
+- use Flexbox or CSS Grid.
+- Add a navigation bar and structure the content.
+- Use media queries to adjust layout for mobile, tablet, and desktop.
+
+>[!NOTE]
+>  - Include at least:
+>  - navigation bar
+>  - media queries
+
+# Tasks
+
+- Apply Flexbox or Grid for layout.
+- Make the page responsive.
+- Test across different screen sizes.
